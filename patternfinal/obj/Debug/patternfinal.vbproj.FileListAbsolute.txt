@@ -1,0 +1,31 @@
+c:\users\durgakalyan\documents\visual studio 2013\Projects\patternfinal\patternfinal\bin\Debug\patternfinal.exe.config
+C:\Users\Teja\Desktop\Visual Basic Projects\patternfinal\patternfinal\bin\Debug\patternfinal.exe.config
+C:\Users\Teja\Desktop\Visual Basic Projects\patternfinal\patternfinal\bin\Debug\patternfinal.exe
+C:\Users\Teja\Desktop\Visual Basic Projects\patternfinal\patternfinal\bin\Debug\patternfinal.pdb
+C:\Users\Teja\Desktop\Visual Basic Projects\patternfinal\patternfinal\bin\Debug\patternfinal.xml
+C:\Users\Teja\Desktop\Visual Basic Projects\patternfinal\patternfinal\obj\Debug\patternfinal.Form1.resources
+C:\Users\Teja\Desktop\Visual Basic Projects\patternfinal\patternfinal\obj\Debug\patternfinal.Resources.resources
+C:\Users\Teja\Desktop\Visual Basic Projects\patternfinal\patternfinal\obj\Debug\patternfinal.vbproj.GenerateResource.Cache
+C:\Users\Teja\Desktop\Visual Basic Projects\patternfinal\patternfinal\obj\Debug\patternfinal.exe
+C:\Users\Teja\Desktop\Visual Basic Projects\patternfinal\patternfinal\obj\Debug\patternfinal.xml
+C:\Users\Teja\Desktop\Visual Basic Projects\patternfinal\patternfinal\obj\Debug\patternfinal.pdb
+C:\Users\Teja\Desktop\patternfinal\patternfinal\bin\Debug\patternfinal.exe.config
+C:\Users\Teja\Desktop\patternfinal\patternfinal\obj\Debug\patternfinal.exe
+C:\Users\Teja\Desktop\patternfinal\patternfinal\obj\Debug\patternfinal.xml
+C:\Users\Teja\Desktop\patternfinal\patternfinal\obj\Debug\patternfinal.pdb
+C:\Users\Teja\Desktop\patternfinal\patternfinal\obj\Debug\patternfinal.Form1.resources
+C:\Users\Teja\Desktop\patternfinal\patternfinal\obj\Debug\patternfinal.Resources.resources
+C:\Users\Teja\Desktop\patternfinal\patternfinal\obj\Debug\patternfinal.vbproj.GenerateResource.Cache
+C:\Users\Teja\Desktop\patternfinal\patternfinal\bin\Debug\patternfinal.exe
+C:\Users\Teja\Desktop\patternfinal\patternfinal\bin\Debug\patternfinal.pdb
+C:\Users\Teja\Desktop\patternfinal\patternfinal\bin\Debug\patternfinal.xml
+C:\Users\Teja\Desktop\Pattern Assignment\patternfinal\patternfinal\bin\Debug\patternfinal.exe.config
+C:\Users\Teja\Desktop\Pattern Assignment\patternfinal\patternfinal\obj\Debug\patternfinal.exe
+C:\Users\Teja\Desktop\Pattern Assignment\patternfinal\patternfinal\obj\Debug\patternfinal.xml
+C:\Users\Teja\Desktop\Pattern Assignment\patternfinal\patternfinal\obj\Debug\patternfinal.pdb
+C:\Users\Teja\Desktop\Pattern Assignment\patternfinal\patternfinal\bin\Debug\patternfinal.exe
+C:\Users\Teja\Desktop\Pattern Assignment\patternfinal\patternfinal\bin\Debug\patternfinal.pdb
+C:\Users\Teja\Desktop\Pattern Assignment\patternfinal\patternfinal\bin\Debug\patternfinal.xml
+C:\Users\Teja\Desktop\Pattern Assignment\patternfinal\patternfinal\obj\Debug\patternfinal.Form1.resources
+C:\Users\Teja\Desktop\Pattern Assignment\patternfinal\patternfinal\obj\Debug\patternfinal.Resources.resources
+C:\Users\Teja\Desktop\Pattern Assignment\patternfinal\patternfinal\obj\Debug\patternfinal.vbproj.GenerateResource.Cache
